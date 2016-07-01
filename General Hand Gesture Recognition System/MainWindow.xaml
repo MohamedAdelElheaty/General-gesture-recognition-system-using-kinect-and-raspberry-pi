@@ -1,0 +1,42 @@
+﻿<Window x:Class="General_Hand_Gesture_Recognition_System.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"   
+        Title="Controller" Background="White">
+    <!--
+            <Image Name="kinectDepthImage" Margin="1146,10,0,577" />-->
+    <Grid>
+        <!-- Define Columns -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" x:Name="LayoutRoot" Margin="0,26,0,37" >
+            <Polyline x:Name="CrayonElement" Stroke="Black" StrokeThickness="3"/>
+            <Canvas x:Name="PuzzleBoardElement"/>
+            <Canvas x:Name="GameBoardElement" Height="505" Width="380">
+                <Ellipse x:Name="HandCursorElement"  Width="75" Height="43" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform x:Name="HandCursorScale" ScaleX="1"/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </Canvas>
+        </Grid>
+
+        <Grid Grid.Column="1" x:Name="ColorStream"  >
+            <DockPanel Margin="0,246,22,0">
+                <Image x:Name="kinectColorImage" Width="350"/>
+            </DockPanel>
+            <DockPanel Margin="0,0,22,264">
+                <Image x:Name="kinectDepthImage" Width="350" />
+            </DockPanel>
+        </Grid>
+
+    </Grid>
+
+</Window>
+
+
+
