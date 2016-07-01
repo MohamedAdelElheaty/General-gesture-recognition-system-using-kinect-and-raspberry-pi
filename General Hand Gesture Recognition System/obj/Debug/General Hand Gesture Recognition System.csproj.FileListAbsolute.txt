@@ -1,0 +1,13 @@
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\bin\Debug\General Hand Gesture Recognition System.exe.config
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General Hand Gesture Recognition System.csprojResolveAssemblyReference.cache
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\MainWindow.baml
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\MainWindow.g.cs
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\App.g.cs
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General Hand Gesture Recognition System_MarkupCompile.cache
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General Hand Gesture Recognition System.g.resources
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General_Hand_Gesture_Recognition_System.Properties.Resources.resources
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General Hand Gesture Recognition System.csproj.GenerateResource.Cache
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\bin\Debug\General Hand Gesture Recognition System.exe
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\bin\Debug\General Hand Gesture Recognition System.pdb
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General Hand Gesture Recognition System.exe
+c:\users\xerix\documents\visual studio 2013\Projects\General Hand Gesture Recognition System\General Hand Gesture Recognition System\obj\Debug\General Hand Gesture Recognition System.pdb
