@@ -4,12 +4,13 @@ we will try to replace kinect camera with 2 low price camera :D we still working
 kinect and one rasp and you can control all the items in house car :D  we make it simple as possible 
 
 #if u need any help just contact us : 
+
 ------------------ 
-*.Mohamed Adel 
- $00201003504581 
- m_adel@stud.fci-cu.edu.eg 
- moh95_1@yahoo.com 
- ------------------ 
- Emad Gamal 
- 00201006823004 
- emad.gamal33@gmail.com 
+Mohamed Adel 
+$00201003504581 
+m_adel@stud.fci-cu.edu.eg 
+moh95_1@yahoo.com 
+------------------ 
+Emad Gamal 
+00201006823004 
+emad.gamal33@gmail.com 
