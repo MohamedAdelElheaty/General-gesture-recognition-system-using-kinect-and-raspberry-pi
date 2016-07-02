@@ -5,8 +5,8 @@ kinect and one rasp and you can control all the items in house car :D  we make i
 
 #if u need any help just contact us : 
 ------------------ 
- .Mohamed Adel 
- .00201003504581 
+*.Mohamed Adel 
+ $00201003504581 
  m_adel@stud.fci-cu.edu.eg 
  moh95_1@yahoo.com 
  ------------------ 
